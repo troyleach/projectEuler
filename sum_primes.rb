@@ -8,7 +8,7 @@ def is_prime?(number)
   true
 end
 
-def find_this2(max)
+def sum_prime_below(max)
   start_time = Time.now
   num = 3
   results = [2]
@@ -23,6 +23,3 @@ def find_this2(max)
   return results
 end
 
-def sum_of_primes_below(number)
-  
-end
