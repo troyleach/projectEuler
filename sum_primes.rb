@@ -22,4 +22,4 @@ def sum_prime_below(max)
   puts "This took #{(end_time - start_time) * 1000} milliseconds"
   return results
 end
-
+# => 142913828922
