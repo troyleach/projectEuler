@@ -29,3 +29,11 @@ def collatz(number)
   }
   return find_max(results) 
 end
+
+
+#=> 837799
+# you know the number because of the index of the number in the array plus 2 (plus one bc ruby starts at 0 and plus one bc I start at 2)
+# write this recursively 
+
+# make a function that does just the collatz function,
+#  do this recursively
