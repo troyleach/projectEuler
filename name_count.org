@@ -1,0 +1,8 @@
+** parse the text file
+** sort the text file
+*** iterate over this data structure using each_with_index
+*** for each object
+**** figure out the name_count
+**** multiply the index times the name_count
+**** save that to sum (this is an array)
+**** return the sum of the sum array

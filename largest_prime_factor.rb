@@ -30,7 +30,7 @@ def find_factors(number)
       factors << number / num
     end
   end
-  return factors
+  return factors.sort
 end
 
 
